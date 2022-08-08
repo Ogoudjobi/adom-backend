@@ -9,9 +9,11 @@ djangorestframework = "*"
 markdown = "*"
 django-filter = "*"
 django-cors-headers = "*"
+psycopg2 = "*"
 
 [dev-packages]
 django-debug-toolbar = "*"
+pylint = "*"
 
 [requires]
 python_version = "3.8"
